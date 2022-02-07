@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vigneshuthra
 - 👀 I’m interested in web design and frond end developement
-- 🌱 I’m currently learning React and Express.JS
+- 🌱 I’m currently learning React and Next.JS
 - 📫 U can contact me on Vigneshuthra@gmail.com
 
 <!---
